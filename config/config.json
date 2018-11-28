@@ -1,0 +1,8 @@
+{
+    "database_name": "pms.db",
+  "sleep": 1,
+  "adc_channel": {
+      "light_intensity": 0,
+      "soil_moisture": 1
+    }
+}
